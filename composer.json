@@ -1,0 +1,17 @@
+{
+    "name": "vlastimil.gres/oop",
+    "description": "OOP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "VG"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
+        }
+    }
+}
